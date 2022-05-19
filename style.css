@@ -1,0 +1,24 @@
+img{
+    border-radius: 50%;
+}
+nav{
+    height: 30px;
+    width: 100%;
+    background-color: black;
+    
+}
+a{
+    color: aliceblue;
+}
+td{
+    text-align: center;
+}
+th{
+    text-align: center;
+}
+a:hover{
+    color: aliceblue;
+}
+a:visited{
+    color: green;
+}
